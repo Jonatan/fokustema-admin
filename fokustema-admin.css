@@ -1,0 +1,93 @@
+div.widget-liquid-left
+{
+	width: 100%;
+	margin-right: 0;
+}
+
+div.widget-liquid-right
+{
+	width: 80%;
+	margin: 0 auto;
+}
+
+div#widgets-left
+{
+	margin-right: 0px;
+}
+
+div#widgets-right
+{
+	width: 100%;
+}
+
+.widget-liquid-right .widget,
+#wp_inactive_widgets .widget,
+#widget-list .widget
+{
+	width: 150px;
+}
+
+#sidebar
+{
+	width: 24%;
+	float: right;
+	margin-left: 1%;
+}
+
+#main-article
+{
+	width: 74%;
+	float: left;
+	margin-right: 1%;
+}
+
+#zebra
+{
+	clear: left;
+	width: 48%;
+	float: left;
+	margin-right: 2%;
+}
+
+#fast-lane
+{
+	float: left;
+	width: 24%;
+	margin-right: 1%;
+}
+
+#left-square
+{
+	width: 24%;
+	float: left;
+	clear: left;
+	margin-right: 1%;	
+}
+
+#right-square
+{
+	width: 24%;
+	float: left;
+	margin-right: 1%;	
+}
+
+#left-block
+{
+	width: 36.5%;
+	float: left;
+	clear: left;
+	margin-right: 1%;	
+}
+
+#right-block
+{
+	width: 36.5%;
+	float: left;
+}
+
+#archive
+{
+	float: left;
+	width: 100%;
+	clear: both;
+}
